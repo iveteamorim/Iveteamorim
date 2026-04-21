@@ -1,7 +1,7 @@
 Ivete de Amorim  
 Product Engineer building systems for operations and decision workflows  
 
-→ Try the system (live demo): https://ai-ops-inbox-one.vercel.app  
+→ live demo): https://ai-ops-inbox-one.vercel.app  
 
 I design and ship systems that turn unstructured inputs into clear actions: what to do next, who owns it, and what is at risk.  
 
