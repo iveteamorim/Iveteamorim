@@ -1,5 +1,5 @@
 Ivete de Amorim  
-Product Engineer building systems for operations and decision workflows  
+Product Engineer building AI systems for operations and decision workflows.
 
 → live demo): https://ai-ops-inbox-one.vercel.app  
 
