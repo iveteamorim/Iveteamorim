@@ -1,8 +1,7 @@
 Ivete de Amorim  
 Product Engineer building AI systems for operations and decision workflows.
 
-→ live demo): https://ai-ops-inbox-one.vercel.app  
-
+→ Live demo: https://ai-ops-inbox-one.vercel.app
 I design and ship systems that turn unstructured inputs into clear actions: what to do next, who owns it, and what is at risk.  
 
 Focused on building end-to-end software that improves prioritization, operational clarity, and decision quality.  
@@ -17,7 +16,8 @@ AI decision system for inbound conversations and lead prioritization.
 - Prioritizes leads by value, urgency, and response delay  
 - Surfaces revenue at risk  
 - Structures follow-up workflows  
-
+- Assigns ownership through real replies
+  
 → https://ai-ops-inbox-one.vercel.app  
 
 ---
