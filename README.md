@@ -10,7 +10,6 @@ My work focuses on full-stack systems: React/Next.js interfaces, backend logic, 
 
 | Product | What it demonstrates | Live demo | Code |
 | --- | --- | --- | --- |
-| **Novua Control** | Release blocker detection across GitHub, Vercel, and Linear. Operational decision layer for ownership gaps, dependency chains, and escalation reasoning. | [Demo](https://novua-control.vercel.app) | [Repo](https://github.com/iveteamorim/novua-control) |
 | **Novua Inbox** | AI-powered operational inbox that prioritizes inbound conversations by value, urgency, response delay, and revenue risk. | [Demo](https://app.novua.digital/demo) | [Repo](https://github.com/iveteamorim/ai-ops-inbox) |
 | **NÓVUA Deal Room** | AI-assisted approval engine with deterministic policies, workflow checkpoints, explainability traces, simulation, and audit ledger. | [Demo](https://decision-room-six.vercel.app/dashboard) | [Repo](https://github.com/iveteamorim/decision-room) |
 | **SupportOps AI** | Support operations workspace for ticket prioritization, classification, summaries, and workflow assistance. | [Live](https://supportops-ai-phi.vercel.app) | [Repo](https://github.com/iveteamorim/supportops-ai) |
