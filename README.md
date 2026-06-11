@@ -10,9 +10,10 @@ My work focuses on full-stack systems: React/Next.js interfaces, backend logic, 
 
 | Product | What it demonstrates | Live demo | Code |
 | --- | --- | --- | --- |
-| **Novua Inbox** | AI-powered operational inbox that prioritizes inbound conversations by value, urgency, response delay, and revenue risk. | [Demo](https://app.novua.digital/demo) | [Repo](https://github.com/iveteamorim/ai-ops-inbox) |
-| **NÓVUA Deal Room** | AI-assisted approval engine with deterministic policies, workflow checkpoints, explainability traces, simulation, and audit ledger. | [Demo](https://decision-room-six.vercel.app/dashboard) | [Repo](https://github.com/iveteamorim/decision-room) |
-| **SupportOps AI** | Support operations workspace for ticket prioritization, classification, summaries, and workflow assistance. | [Live](https://supportops-ai-phi.vercel.app) | [Repo](https://github.com/iveteamorim/supportops-ai) |
+| **Potilar** | Production real estate marketplace with listings, maps, payments, moderation, SEO, and operational workflows. | [Live](https://potilar.com.br) | [Repo](https://github.com/iveteamorim/Potilar) |
+| **Novua Control** | AI operations command center for release blockers, ownership gaps, deterministic risk scoring, and explainable incident workflows. | [Live](https://control.novua.digital) | [Repo](https://github.com/iveteamorim/novua-control) |
+| **Novua Inbox** | AI-powered conversation operations workspace focused on ownership, urgency, response timing, and next-action clarity. | [Demo](https://app.novua.digital/demo) | [Repo](https://github.com/iveteamorim/ai-ops-inbox) |
+| **NÓVUA Deal Room** | AI-assisted approval engine with deterministic policies, workflow checkpoints, explainability traces, simulation, and audit logic. | [Demo](https://decision-room-six.vercel.app/dashboard) | [Repo](https://github.com/iveteamorim/decision-room) |
 
 ## What I Build
 
