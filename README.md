@@ -1,12 +1,12 @@
 # Ivete de Amorim
 
-**Product Engineer building decision and workflow software for teams that need clarity, control, and execution.**
+**Product Engineer building end-to-end software products, operational systems, and AI-assisted workflows.**
 
 I build end-to-end software products from workflow design and product thinking through implementation and deployment.
 
 My work focuses on turning messy business problems into usable systems: marketplaces, internal tools, operational workflows, decision-support products, automation, and AI-assisted software.
 
-I care about products that make work easier to understand, decisions easier to trace, and execution easier to coordinate.
+I care about useful products, clear systems, thoughtful documentation, and software that helps people work, coordinate, and execute more effectively.
 
 ## Featured Products
 
@@ -43,6 +43,6 @@ I care about products that make work easier to understand, decisions easier to t
 
 ## Current Direction
 
-Building software that turns operational complexity into clear actions, traceable decisions, and usable workflows.
+Building software that turns operational complexity into clear actions, usable systems, and better execution.
 
-I am especially interested in Product Engineer, Founding Engineer, and full-stack roles involving React, TypeScript, Next.js, internal tools, AI-assisted systems, automation, and operational decision software.
+I am especially interested in Product Engineer, Founding Engineer, and full-stack roles involving React, TypeScript, Next.js, internal tools, AI-assisted systems, automation, and operational software.
