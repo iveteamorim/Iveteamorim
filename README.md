@@ -1,12 +1,12 @@
 # Ivete de Amorim
 
-**Product Engineer building end-to-end software products, operational systems, and AI-assisted workflows.**
+**Product Engineer building complete software products from concept to production.**
 
-I build end-to-end software products from workflow design and product thinking through implementation and deployment.
+My work spans marketplaces, internal tools, SaaS products, operational software, automation, AI-enabled applications, and workflow systems.
 
-My work focuses on turning messy business problems into usable systems: marketplaces, internal tools, operational workflows, decision-support products, automation, and AI-assisted software.
+I take products from problem framing and system design through architecture, implementation, deployment, and continuous iteration.
 
-I care about useful products, clear systems, thoughtful documentation, and software that helps people work, coordinate, and execute more effectively.
+My focus is building useful products with strong product thinking, clear execution, and systems designed for real-world use.
 
 ## Featured Products
 
