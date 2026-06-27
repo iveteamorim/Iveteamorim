@@ -39,7 +39,7 @@ My focus is building useful products with strong product thinking, clear executi
 
 **Frontend:** React, Next.js, TypeScript, CSS, responsive UI  
 **Backend:** Node.js, Python, API routes, PostgreSQL, Supabase  
-**AI Systems:** OpenAI APIs, structured outputs, classification, scoring, decision workflows  
+**AI Systems:** OpenAI APIs, structured outputs, automation, retrieval, classification, and AI-assisted product features  
 **Infrastructure:** Vercel, GitHub, CI/CD, deployment pipelines  
 
 ## Current Direction
