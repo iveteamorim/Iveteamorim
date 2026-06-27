@@ -19,20 +19,21 @@ My focus is building useful products with strong product thinking, clear executi
 
 ## What I Build
 
-- Full-stack web applications with React, Next.js, TypeScript, Python, APIs, and databases
-- Operational systems that turn signals, requests, blockers, and decisions into clear workflows
-- Decision-support tools with deterministic rules, scoring, human checkpoints, and auditability
-- Internal tools that make priority, risk, ownership, and next actions visible
-- AI-assisted workflows using structured outputs, policy boundaries, and explainable reasoning
-- Production-ready products and prototypes deployed with clear documentation
+- End-to-end software products from concept to production
+- SaaS applications, marketplaces, and customer-facing products
+- Internal tools and operational software
+- Full-stack applications using React, Next.js, TypeScript, Python, APIs, and PostgreSQL
+- AI-powered features, automation, and workflow systems where they add real value
+- Production-ready software with deployment, documentation, and continuous iteration
 
 ## Engineering Focus
 
-- Product engineering from problem framing to deployed software
-- Workflow design, decision logic, and operational system behavior
-- Clear UX for complex business processes
-- Maintainable code, documented architecture, and fast iteration
-- AI as assistive reasoning, with human judgment and policy as the source of truth
+- Product engineering from problem framing to production
+- System architecture and software design
+- Building maintainable, scalable applications
+- Clear user experiences for complex business workflows
+- Fast iteration, deployment, and continuous improvement
+- Pragmatic use of AI where it creates measurable value
 
 ## Stack
 
@@ -43,6 +44,6 @@ My focus is building useful products with strong product thinking, clear executi
 
 ## Current Direction
 
-Building software that turns operational complexity into clear actions, usable systems, and better execution.
+Building software products that solve real business problems through thoughtful product design and reliable engineering.
 
 I am especially interested in Product Engineer, Founding Engineer, and full-stack roles involving React, TypeScript, Next.js, internal tools, AI-assisted systems, automation, and operational software.
