@@ -1,4 +1,4 @@
-# Ivete de Amorim
+﻿# Ivete de Amorim
 
 **Product Engineer building software products from idea to production.**
 
@@ -15,7 +15,8 @@ My focus is building useful products with strong product thinking, clear executi
 | **NOVUA Decision Room** | Commercial decision governance with deterministic policies, explainable AI, human checkpoints, simulation, and audit trails. | [Demo](https://decision-room-six.vercel.app/dashboard) | [Repo](https://github.com/iveteamorim/decision-room) |
 | **NOVUA Control** | Execution control system for surfacing blockers, ownership gaps, operational risk, and next actions. | [Live](https://novua-control.vercel.app) | [Repo](https://github.com/iveteamorim/novua-control) |
 | **PotiLar** | Production real estate marketplace serving Rio Grande do Norte, Brazil, with listings, maps, moderation, SEO, and operational workflows. | [Live](https://potilar.com.br) | [Repo](https://github.com/iveteamorim/Potilar) |
-| **NOVUA Inbox** | Operational inbox that prioritizes business conversations by value, urgency, response timing, and revenue risk. |[Live](https://ai-ops-inbox-one.vercel.app) | [Repo](https://github.com/iveteamorim/ai-ops-inbox) |
+| **NOVUA Inbox** | Operational inbox that prioritizes business conversations by value, urgency, response timing, and revenue risk. | [Live](https://ai-ops-inbox-one.vercel.app) | [Repo](https://github.com/iveteamorim/ai-ops-inbox) |
+| **Avança** | ATS-ready CV platform for Gulf and international job markets, with parseable PDFs, region-aware fields, AI writing support, and job-ad keyword matching. | [Live](https://www.avancacv.com) | — |
 
 ## What I Build
 
