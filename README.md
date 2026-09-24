@@ -6,13 +6,7 @@ I build and ship software from problem framing and system design through impleme
 
 ## Open Source
 
-### MEX — AI agent memory & code graph
-
-Contributor to MEX, an open-source memory and code-context system for engineers and AI agents.
-
-Improved code-graph retrieval for oversized nodes, returning partial results instead of incorrectly reporting `no-match`.
-
-**Merged:** [PR #239](https://github.com/mex-memory/mex/pull/239) · Resolves [#230](https://github.com/mex-memory/mex/issues/230)
+**MEX** — Contributed to code-graph retrieval for AI agents, improving oversized-node handling under output-budget constraints. [PR #239](https://github.com/mex-memory/mex/pull/239)
 
 ## Featured Products
 
