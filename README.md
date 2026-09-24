@@ -1,6 +1,6 @@
 # Ivete de Amorim
 
-**Product Engineer building software products from idea to production.**
+**AI Product Engineer building end-to-end products, AI systems, agent workflows, and decision infrastructure.**
 
 My work spans marketplaces, internal tools, SaaS products, operational software, automation, AI-enabled applications, and workflow systems.
 
