@@ -2,11 +2,17 @@
 
 **AI Product Engineer building end-to-end products, AI systems, agent workflows, and decision infrastructure.**
 
-My work spans marketplaces, internal tools, SaaS products, operational software, automation, AI-enabled applications, and workflow systems.
+I build and ship software from problem framing and system design through implementation, deployment, and iteration — with a focus on operational systems, AI-enabled workflows, and products designed for real-world use.
 
-I take products from problem framing and system design through architecture, implementation, deployment, and continuous iteration.
+## Open Source
 
-My focus is building useful products with strong product thinking, clear execution, and systems designed for real-world use.
+### MEX — AI agent memory & code graph
+
+Contributor to MEX, an open-source memory and code-context system for engineers and AI agents.
+
+Improved code-graph retrieval for oversized nodes, returning partial results instead of incorrectly reporting `no-match`.
+
+**Merged:** [PR #239](https://github.com/mex-memory/mex/pull/239) · Resolves [#230](https://github.com/mex-memory/mex/issues/230)
 
 ## Featured Products
 
@@ -15,36 +21,17 @@ My focus is building useful products with strong product thinking, clear executi
 | **NOVUA Decision Room** | Commercial decision governance with deterministic policies, explainable AI, human checkpoints, simulation, and audit trails. | [Demo](https://decision-room-six.vercel.app/dashboard) | [Repo](https://github.com/iveteamorim/decision-room) |
 | **NOVUA Control** | Execution control system for surfacing blockers, ownership gaps, operational risk, and next actions. | [Live](https://novua-control.vercel.app) | [Repo](https://github.com/iveteamorim/novua-control) |
 | **PotiLar** | Production real estate marketplace serving Rio Grande do Norte, Brazil, with listings, maps, moderation, SEO, and operational workflows. | [Live](https://potilar.com.br) | [Repo](https://github.com/iveteamorim/Potilar) |
-| **NOVUA Inbox** | Operational inbox with Supabase Auth/Postgres architecture and a public mock-data demo for review. Prioritizes conversations by value, urgency, response timing, and revenue risk. | [Demo](https://ai-ops-inbox-one.vercel.app/demo/mock) | — |
-| **Avança** | ATS-ready CV platform that helps candidates tailor professional resumes for Gulf and international job markets using structured data, parseable PDFs, and AI-assisted job matching. | [Live](https://www.avancacv.com) | — |
+| **NOVUA Inbox** | AI-assisted operational inbox that prioritizes conversations by value, urgency, response timing, and revenue risk. | [Demo](https://ai-ops-inbox-one.vercel.app/demo/mock) | — |
+| **Avança** | CV platform for tailoring ATS-ready resumes using structured data, parseable PDFs, and AI-assisted job matching. | [Live](https://www.avancacv.com) | — |
 
-## What I Build
+## Engineering
 
-- End-to-end software products from concept to production
-- SaaS applications, marketplaces, and customer-facing products
-- Internal tools and operational software
-- Full-stack applications using React, Next.js, TypeScript, Python, APIs, and PostgreSQL
-- AI-powered features, automation, and workflow systems where they add real value
-- Production-ready software with deployment, documentation, and continuous iteration
-
-## Engineering Focus
-
-- Product engineering from problem framing to production
-- System architecture and software design
-- Building maintainable, scalable applications
-- Clear user experiences for complex business workflows
-- Fast iteration, deployment, and continuous improvement
-- Pragmatic use of AI where it creates measurable value
-
-## Stack
-
-**Frontend:** React, Next.js, TypeScript, CSS, responsive UI  
-**Backend:** Node.js, Python, API routes, PostgreSQL, Supabase  
-**AI Systems:** OpenAI APIs, structured outputs, automation, retrieval, classification, and AI-assisted product features  
+**AI Systems:** LLM workflows, structured outputs, retrieval, classification, agent workflows, automation  
+**Frontend:** React, Next.js, TypeScript, CSS  
+**Backend:** Node.js, Python, APIs, PostgreSQL, Supabase  
 **Infrastructure:** Vercel, GitHub, CI/CD, deployment pipelines  
+**Product Engineering:** system design, operational workflows, product architecture, iterative delivery
 
 ## Current Direction
 
-Building software products that solve real business problems through thoughtful product design and reliable engineering.
-
-I am especially interested in Product Engineer, Founding Engineer, and full-stack roles involving React, TypeScript, Next.js, internal tools, AI-assisted systems, automation, and operational software.
+Focused on AI Product Engineer and Product Engineer roles building AI-enabled products, operational systems, and developer tools.
