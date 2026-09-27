@@ -6,7 +6,9 @@ I build and ship software from problem framing and system design through impleme
 
 ## Open Source
 
-**MEX** — Contributed to code-graph retrieval for AI agents, improving oversized-node handling under output-budget constraints. [PR #239](https://github.com/mex-memory/mex/pull/239)
+**AetherAI3 / Unlimited-Context-LLM** — Added first-class LM Studio backend support for a local-LLM memory engine, reusing its OpenAI-compatible streaming transport with optional authentication and offline HTTP coverage. [PR #83](https://github.com/AetherAI3/Unlimited-Context-LLM/pull/83) · **Merged**
+
+**MEX** — Contributed to code-graph retrieval for AI agents, improving oversized-node handling under output-budget constraints. [PR #239](https://github.com/mex-memory/mex/pull/239) · **Merged**
 
 ## Featured Products
 
