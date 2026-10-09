@@ -6,6 +6,8 @@ I build and ship software from problem framing and system design through impleme
 
 ## Open Source
 
+**GD4AI / Obsidian LLM Wiki** — Upgraded the AI SDK integration to v7, adapting reasoning/result handling and provider compatibility while preserving existing behavior and passing regression checks. [PR #786](https://github.com/GD4AI/obsidian-llm-wiki/pull/786) · **Merged**
+
 **iCalendar** — Added `WKST` support for `vRecur`, including parsing, validation, serialization, documentation, and tests. [PR #1861](https://github.com/collective/icalendar/pull/1861) · **Merged**
 
 **AetherAI3 / Unlimited-Context-LLM** — Added first-class LM Studio backend support for a local-LLM memory engine, reusing its OpenAI-compatible streaming transport with optional authentication and offline HTTP coverage. [PR #83](https://github.com/AetherAI3/Unlimited-Context-LLM/pull/83) · **Merged**
