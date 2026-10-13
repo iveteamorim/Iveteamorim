@@ -6,6 +6,8 @@ I build and ship software from problem framing and system design through impleme
 
 ## Open Source
 
+**GENesis-AGI** — Introduced the repository's first Hypothesis-based property-testing suite for hook-output invariants, covering UTF-16 budgeting, Unicode edge cases, and bounded output. Identified and pinned three real defects. [PR #3246](https://github.com/WingedGuardian/GENesis-AGI/pull/3246) · **Merged**
+
 **GD4AI / Obsidian LLM Wiki** — Upgraded the AI SDK integration to v7, adapting reasoning/result handling and provider compatibility while preserving existing behavior and passing regression checks. [PR #786](https://github.com/GD4AI/obsidian-llm-wiki/pull/786) · **Merged**
 
 **iCalendar** — Added `WKST` support for `vRecur`, including parsing, validation, serialization, documentation, and tests. [PR #1861](https://github.com/collective/icalendar/pull/1861) · **Merged**
